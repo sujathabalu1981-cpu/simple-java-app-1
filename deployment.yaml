@@ -14,7 +14,7 @@ spec:
  spec:
  containers:
  - name: java-app
- image: <dockerhub-monicabalu>/java-app:latest
+ image: monicabalu/java-app:latest
 ---
 apiVersion: v1
 kind: Service
